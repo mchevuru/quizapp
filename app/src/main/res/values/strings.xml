@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Logo Quiz</string>
+    <string name="about_you_quiz">About You Quiz</string>
+    <string name="name">Name</string>
+    <string name="click_here_to_see_all_the_logos">Click here to see all the logos!</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="answer_2">Answer 2</string>
+    <string name="answer_3">Answer 3</string>
+    <string name="answer_4">Answer 4</string>
+    <string name="question">Question</string>
+    <string name="more_about_frc_2020_21">More About FRC 2020-21</string>
+    <string name="recent_project">Recent Project</string>
+    <string name="all_the_emoji_meanings_you_should_know_by_rachit_agarwal">All The Emoji Meanings You Should Know by Rachit Agarwal</string>
+    <string name="image_description">Logo</string>
+    <string name="logo">Logo</string>
+</resources>
